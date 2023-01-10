@@ -1,6 +1,6 @@
 
 #Part 1: Create List of Topics
-path="C:\\Users\\Mark.Williamson.2\\Desktop\\Williamson Data\\Various\\"
+path="C:\\...\\" #add the file path where the ScienceDisciplines.txt file is located on your computer
 file="ScienceDisciplines.txt"
 
 topic_list=[]
